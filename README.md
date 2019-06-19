@@ -29,9 +29,18 @@ __NOTE__: Exact resolution required is 900 X 1200
 * Creating new issue
 * Creating a new article
 * Going live
-# Backing up
-## Theme backing up
+# Apperance and Themes
+* Access via dashboard -> Apperance -> Themes
+## Child themes
+* See https://developer.wordpress.org/themes/advanced-topics/child-themes/
 # Raw file editing via WP File Manager
+* Go to dashboard -> WP File Manager
+* See https://codex.wordpress.org/ for details regarding the layout and what
+  each file does
+# Backing up
+## Backing up images
+* `emagazine/wp-content/uploads`
+## Child theme backing up
 # User role manager
 # Settings
 # Analytics
