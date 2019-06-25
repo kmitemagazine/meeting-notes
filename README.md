@@ -44,5 +44,6 @@ __NOTE__: Exact resolution required is 900 X 1200
 # User role manager
 # Settings
 # Analytics
+https://analytics.google.com
 # SEO
 # Comment moderation
